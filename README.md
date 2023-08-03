@@ -9,11 +9,14 @@ A game prototype I build in 2022 using Processing
 
 # HOW TO PLAY IT
 1. Install Processing 4.2 (https://github.com/processing/processing4/releases/tag/processing-1292-4.2)
+
 2. Install Processing's sound library **Sketch -> Import library -> Manage libraries -> Search for "sound" -> Install**
 ![image](https://github.com/pauserratgutierrez/present-defense/assets/73240206/caaf4f05-ce65-435a-860b-6f68664020fe)
 ![image](https://github.com/pauserratgutierrez/present-defense/assets/73240206/8b434e98-ab50-4fae-b7d9-37248fe45cc1)
 
 3. Download all game files from this repository
+
 4. Open any .pde file
+
 5. Click the run play button
 ![image](https://github.com/pauserratgutierrez/present-defense/assets/73240206/2ed8d723-a772-4b32-ba19-c0fdfca3613e)
